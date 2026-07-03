@@ -19,6 +19,9 @@ dependencies = [
     "ipython",
 ]
 
+[tools.setuptools]
+packages = ["flask_shell_turbo"]
+
 [project.urls]
 "Homepage" = "https://github.com/fierroformo/flask-shell-turbo"
 "Bug Tracker" = "https://github.com/fierroformo/flask-shell-turbo/issues"
